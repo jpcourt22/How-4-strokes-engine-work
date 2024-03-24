@@ -1,18 +1,27 @@
 .main {
     text-align: center;
-    background: rgba(138, 138, 138, 0.699);
+    background: linear-gradient(rgb(43, 43, 43), rgb(198, 88, 88));
 }
 img {
     width: 80%;
 }
 div {
     width: 80%;
-    background-color: rgb(255, 255, 255);
+    background: linear-gradient(rgb(198, 88, 88), rgb(43, 43, 43));
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
     max-width: 500px;
 }
 a {
-    color: black;
+    color: aliceblue;
+}
+legend {
+    font-size: 150%;
+}
+p {
+    color: aliceblue;
+}
+h1 {
+    color: aliceblue;
 }
